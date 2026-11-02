@@ -24,4 +24,6 @@ I recorded short walkthroughs of real jobs: government tenders, patents, metal p
 **[Data Behind the Deal](https://www.linkedin.com/newsletters/7521914552037474304/)**, my LinkedIn newsletter on real estate data, scraping and AI. Twice a week.
 
 #### Say hi
-[LinkedIn](https://www.linkedin.com/in/hajra-wajid) · [X](https://x.com/HajraWajidDev) · [Upwork](https://www.upwork.com/freelancers/~017419bb1687a8a9e6) · hajra.freelance@gmail.com
+[LinkedIn](https://www.linkedin.com/in/hajra-wajid) · [X](https://x.com/HajraWajidDev) · [TikTok](https://www.tiktok.com/@hajrawajiddev) · [BiggerPockets](https://www.biggerpockets.com/users/hajraw) · [Upwork](https://www.upwork.com/freelancers/~017419bb1687a8a9e6) · [Portfolio](https://hajra-wajid.github.io/portfolio/) · hajra.freelance@gmail.com
+
+LeadCounty: [Website](https://leadcounty.com) · [LinkedIn](https://www.linkedin.com/company/145392018/) · [Facebook](https://www.facebook.com/leadcounty) · [Crunchbase](https://www.crunchbase.com/organization/leadcounty) · [SourceForge](https://sourceforge.net/software/product/LeadCounty/) · [SaaSHub](https://www.saashub.com/leadcounty)
